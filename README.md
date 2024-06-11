@@ -1,33 +1,49 @@
-# 🎓 FORMAÇÃO LÓGICA DE PROGRAMAÇÃO DIO
+# 1️⃣ Desafio Classificador de Nível de Herói
 
-Bem-vindo ao repositório da Formação Lógica de Programação!
+Bem-vindo ao Desafio Classificador de Nível de Herói! Este projeto é uma excelente oportunidade para praticar conceitos fundamentais de programação, como variáveis, operadores, laços de repetição e estruturas de decisão.
 
-Este repositório é dedicado aos projetos do curso Formação Lógica de Programação da DIO, onde você encontrará desafios e projetos para prática e aprendizado dos conceitos fundamentais de programação.
+🎯 Objetivo 
 
-📂 Navegação no Repositório
+O objetivo deste desafio é criar um programa que classifique o nível de um herói com base na quantidade de experiência (XP) acumulada. O programa deve utilizar uma estrutura de decisão para determinar e exibir o nível correspondente de acordo com a tabela fornecida.
+  
+📝 Como Executar
 
-Cada projeto ou desafio está organizado em seu próprio diretório.
+1. Certifique-se de ter o Python instalado em sua máquina.
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts de código, documentos de especificação e outras informações relevantes.
+2. Clone este repositório para o seu ambiente local.
 
-Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste repositório. Se você é um estudante do curso, este repositório pode ser uma valiosa fonte de revisão e prática.
+3. Navegue até o diretório do projeto.
 
-🛠️ Projetos Disponíveis
+4. Execute o arquivo principal classificador de nível de herói.py em seu terminal ou IDE Python.
 
-Projeto 1: Classificador de Nível de Herói
+🤝 Como Contribuir 
 
-Projeto 2: Calculadora de Partidas Rankeadas
+Se deseja contribuir para este projeto, siga estas etapas:
 
-Projeto 3: Escrevendo as Classes de Um Jogo
+1. Faça um fork do repositório.
 
-🤝 Contribuindo
+2. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
 
-Se você deseja contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindas!
+3. Implemente suas melhorias e novas funcionalidades.
 
-📧 Contato
+4. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com lógica de programação, sinta-se à vontade para entrar em contato.
+5. Push para a branch (git push origin feature/nova-feature).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
+6. Crie um novo Pull Request.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+🧠 Lógica do Programa
+
+- Solicitar ao usuário o nome do herói.
+
+- Solicitar ao usuário a quantidade de XP do herói.
+
+- Utilizar estruturas de decisão (if-elif-else) para determinar o nível do herói com base no XP.
+
+- Exibir uma mensagem com o nome do herói e seu nível.
+
+📋 README do Projeto
+
+Este projeto é uma solução para o Desafio Classificador de Nível de Herói. Ele visa classificar um herói com base na quantidade de experiência (XP) e exibir uma mensagem indicando o nome do herói e seu nível.
+
+As principais funcionalidades incluem a criação de variáveis para armazenar dados do herói, uso de estruturas de decisão para determinar o nível e a exibição do resultado final.
