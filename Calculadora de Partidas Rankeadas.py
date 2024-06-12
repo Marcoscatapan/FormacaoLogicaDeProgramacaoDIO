@@ -1,5 +1,5 @@
-def calc(wins, losses):
-    balance = wins - losses
+def calc(wins, loses):
+    balance = wins - loses
     return balance
 
 saldoDeVitorias = calc(89, 42)
