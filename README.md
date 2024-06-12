@@ -44,7 +44,7 @@ Se deseja contribuir para este projeto, siga estas etapas:
 
 - Exibir uma mensagem com o nome do jogador, o saldo de vitórias e seu nível.
 
-📋 README do Projeto
+📋 Síntese do Projeto
 
 Este projeto é uma solução para o Desafio Calculadora de Partidas Rankeadas. Ele visa calcular o saldo de partidas ranqueadas de um jogador e exibir uma mensagem indicando o nome do jogador, seu saldo de vitórias e seu nível.
 
