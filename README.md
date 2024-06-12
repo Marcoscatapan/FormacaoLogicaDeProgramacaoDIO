@@ -1,10 +1,10 @@
-# 2️⃣ Calculadora de Partidas Rankeadas
+# 1️⃣ Desafio Classificador de Nível de Herói
 
-Bem-vindo ao Desafio Calculadora de Partidas Rankeadas! Este projeto é uma excelente oportunidade para praticar conceitos fundamentais de programação, como variáveis, operadores, laços de repetição, estruturas de decisão e funções.
+Bem-vindo ao Desafio Classificador de Nível de Herói! Este projeto é uma excelente oportunidade para praticar conceitos fundamentais de programação, como variáveis, operadores, laços de repetição e estruturas de decisão.
 
-🎯 Objetivo
+🎯 Objetivo 
 
-O objetivo deste desafio é criar uma função que receba como parâmetro a quantidade de vitórias e derrotas de um jogador e retorne o saldo das partidas ranqueadas. O programa deve utilizar uma estrutura de decisão para determinar e exibir o nível correspondente de acordo com a tabela fornecida.
+O objetivo deste desafio é criar um programa que classifique o nível de um herói com base na quantidade de experiência (XP) acumulada. O programa deve utilizar uma estrutura de decisão para determinar e exibir o nível correspondente de acordo com a tabela fornecida.
 
 📝 Como Executar
 
@@ -14,7 +14,7 @@ O objetivo deste desafio é criar uma função que receba como parâmetro a quan
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal Calculadora de Partidas Rankeadas.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal classificador de nível de herói.py em seu terminal ou IDE Python.
 
 🤝 Como Contribuir
 
@@ -34,18 +34,16 @@ Se deseja contribuir para este projeto, siga estas etapas:
    
 🧠 Lógica do Programa
 
-- Solicitar ao usuário o nome do jogador.
+- Solicitar ao usuário o nome do herói.
 
-- Solicitar ao usuário a quantidade de vitórias e derrotas do jogador.
+- Solicitar ao usuário a quantidade de XP do herói.
 
-- Utilizar uma função para calcular o saldo de partidas ranqueadas.
+- Utilizar uma estrutura de decisão (if-elif-else) para determinar o nível do herói com base na XP.
 
-- Utilizar estruturas de decisão (if-elif-else) para determinar o nível do jogador com base no saldo de vitórias.
+- Exibir uma mensagem com o nome do herói e seu nível.
 
-- Exibir uma mensagem com o nome do jogador, o saldo de vitórias e seu nível.
+📋 Síntese do Projeto
 
-📋 README do Projeto
+Este projeto é uma solução para o Desafio Classificador de Nível de Herói. Ele visa classificar o nível de um herói com base na quantidade de experiência (XP) acumulada e exibir uma mensagem indicando o nome do herói e seu nível.
 
-Este projeto é uma solução para o Desafio Calculadora de Partidas Rankeadas. Ele visa calcular o saldo de partidas ranqueadas de um jogador e exibir uma mensagem indicando o nome do jogador, seu saldo de vitórias e seu nível.
-
-As principais funcionalidades incluem a criação de variáveis para armazenar dados do jogador, uso de funções para calcular o saldo de vitórias, uso de estruturas de decisão para determinar o nível e a exibição do resultado final.
+As principais funcionalidades incluem a criação de variáveis para armazenar dados do herói, uso de estruturas de decisão para determinar o nível e a exibição do resultado final.
