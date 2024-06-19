@@ -14,7 +14,7 @@ O objetivo deste desafio é criar uma função que receba como parâmetro a quan
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal Calculadora de Partidas Rankeadas.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal (Calculadora de Partidas Rankeadas.py) em seu terminal ou IDE Python.
 
 🤝 Como Contribuir
 
