@@ -14,7 +14,7 @@ O objetivo deste desafio é criar um programa que classifique o nível de um her
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal classificador de nível de herói.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal (classificador de nível de herói.py) em seu terminal ou IDE Python.
 
 🤝 Como Contribuir
 
