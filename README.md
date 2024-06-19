@@ -44,7 +44,7 @@ Utilize todos seus conhecimentos lógicos até aqui para desenvolver uma Calcula
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal Escrevendo as Classes de Um Jogo.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal (Escrevendo as Classes de Um Jogo.py) em seu terminal ou IDE Python.
 
 🤝 Como Contribuir
 
